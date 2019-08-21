@@ -25,3 +25,9 @@ If the project website is still up, here it is:
 
 This tool is licensed under the GNU GENERAL PUBLIC LICENSE <https://opensource.org/licenses/GPL-3.0>.  
 Copyright &copy; 2019 Kwong Tung Nan, Tan Yi Wen, Tan Wen Xiang
+
+## Group Members:
+- Kwong Tung Nan 	B031810219	1BITI S1G2
+- Tan Yi Wen		B031810283	1BITI S1G2
+- Tan Wen Xiang		B031810179	1BITI S1G2
+
